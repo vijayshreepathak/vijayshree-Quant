@@ -126,12 +126,6 @@ The goal is to create a robust trading system that demonstrates advanced capabil
 - Benchmarked and optimized key system performance metrics.
 - Gained expertise in API integration, C++ programming, and WebSocket technology.
 
----
-
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## 📬 Contact
 For any queries or suggestions, feel free to reach out:
